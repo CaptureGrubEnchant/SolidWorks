@@ -1,7 +1,0 @@
----
-name: default
-title: Default Tests
-maintainer: Sous Chefs
-license: Apache-2.0
-summary: Default integration tests for the homebrew cookbook
-version: 1.0.0
