@@ -1,5 +1,5 @@
 <a id="top"></a>
-<img src="docs/assets/readme-header.svg" width="100%" alt="SolidWorks MCP Server">
+[![SolidWorks Suite Banner](./solidworks_banner.svg)](https://github.com/CaptureGrubEnchant/SolidWorksMCP)
 
 <div align="center">
 
