@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://solidmania.com/wp-content/uploads/2021/11/SW-SIMULIA-min.png" width="480" height="360" alt="SolidWorks · SIMULIA">
+<img src="readme-hero.jpg" width="920" alt="SolidWorks MCP Server">
 
 </div>
 
