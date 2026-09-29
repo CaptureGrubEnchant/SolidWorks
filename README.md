@@ -1,5 +1,5 @@
 <a id="top"></a>
-[![SolidWorks Suite Banner](./solidworks_banner.svg)](https://github.com/CaptureGrubEnchant/SolidWorksMCP)
+img width="480" height="360" alt="image" src="https://solidmania.com/wp-content/uploads/2021/11/SW-SIMULIA-min.png" />
 
 <div align="center">
 
