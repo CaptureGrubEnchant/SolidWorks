@@ -1,5 +1,10 @@
 <a id="top"></a>
-img width="480" height="360" alt="image" src="https://solidmania.com/wp-content/uploads/2021/11/SW-SIMULIA-min.png" />
+
+<div align="center">
+
+<img src="https://solidmania.com/wp-content/uploads/2021/11/SW-SIMULIA-min.png" width="480" height="360" alt="SolidWorks · SIMULIA">
+
+</div>
 
 <div align="center">
 
