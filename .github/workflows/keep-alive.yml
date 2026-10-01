@@ -1,0 +1,27 @@
+name: Keep Alive
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keep_alive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Keep alive
+        run: |
+          echo "Last keep-alive: $(date -u)" > .github/keepalive
+          git add .github/keepalive
+          git commit -m "chore: keep-alive $(date -u +%Y-%m-%d)" || echo "No changes"
+          git push
